@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(python -m pip install pandas numpy mootdx akshare requests streamlit plotly diskcache lxml html5lib 2>&1)"
+    ]
+  }
+}
